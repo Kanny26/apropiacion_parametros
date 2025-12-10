@@ -12,5 +12,13 @@
   "description": "",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanny26/apropiacion_parametros.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kanny26/apropiacion_parametros/issues"
+  },
+  "homepage": "https://github.com/Kanny26/apropiacion_parametros#readme"
 }
